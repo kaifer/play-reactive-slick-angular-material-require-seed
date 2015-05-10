@@ -12,11 +12,11 @@ It adds angular material to play-angular-require-seed.
 
 ## Used Versions
 
-* Play Framework: 2.3.8
+* Play Framework: 2.4.0-RC1
 * RequireJS: 2.1.17
 * AngularJS: 1.3.15
 * Angular Material: 0.9.0-rc2
-
+* Play-Slick: 1.0.0
 
 ## Code Organization
 
