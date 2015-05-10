@@ -1,4 +1,4 @@
-# play-reactive-slick
+# play-reactive-slick (fork from : https://github.com/knoldus/play-reactive-slick)
 
 Building Reactive Play application with Slick 3.0
 
